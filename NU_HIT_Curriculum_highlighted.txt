@@ -1,0 +1,57 @@
+Telecommunication Networks
+local area network
+wide area network
+telecommunication circuits
+information assurance
+advanced networking technologies
+HIT Integration, Interoperability, & Standards
+IHE Initiative
+HL7
+DICOM
+CCOW
+CorbaMED
+Health Insurance Portability and Accountability Act
+Decision Support Systems
+quantifying uncertainty
+decision analysis
+decision support systems
+Bayes' theorem
+data mining techniques
+Information System Acquisition & Lifecycle
+cost analysis and justification
+economic models
+Biostatistics
+descriptive statistics
+hypothesis testing
+estimation
+t-tests
+chi-squared tests
+analysis of variance
+linear regression
+correlation
+nonparametric tests
+survival analysis
+odds ratio
+Database Systems Design & Implementation
+referential integrity
+Practical Data Science Using Machine Learning
+machine learning modeling techniques
+Collaborative Filtering
+Association
+Clustering
+Classification
+Techniques of Analytics
+statistical model specification
+model selection
+Predictive Analytics Project Management
+Delphi method
+precedence diagramming
+critical path method
+earned value analysis
+Data Management Principles
+data management concepts
+metadata
+controlled vocabularies
+User-centered System Design
+trends in design thinking
+iterative design frameworks
